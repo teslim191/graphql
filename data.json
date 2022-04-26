@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "2",
+      "name": "halimat",
+      "email": "white@yahoo.com",
+      "age": 28
+    },
+    {
+      "id": "3",
+      "name": "jude mark",
+      "email": "jude@yahoo.com",
+      "age": 20
+    },
+    {
+      "name": "wayne rob",
+      "email": "rob@gmail.com",
+      "age": 50,
+      "id": "_bo277-"
+    },
+    {
+      "name": "wayne rob",
+      "email": "rob@gmail.com",
+      "age": 50,
+      "id": "exoA87J"
+    },
+    {
+      "name": "moyo",
+      "email": "moyo@gmail.com",
+      "age": 20,
+      "id": "uc5kiSw"
+    },
+    {
+      "name": "moyo",
+      "email": "moyo@gmail.com",
+      "age": 20,
+      "id": "JOwDmDK"
+    }
+  ]
+}
