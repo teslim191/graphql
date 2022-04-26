@@ -46,7 +46,7 @@ const UserType = new GraphQLObjectType({
     posts: {
       type: new GraphQLList(PostType),
       resolve(parentValue, args){
-        // return _.filter(books , { authorid: parentValue.id })
+
         return Posts.find({ userid:parentValue.id })
       }
     }
